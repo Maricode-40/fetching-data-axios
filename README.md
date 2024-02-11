@@ -1,4 +1,4 @@
-# SheCodes- project- WeatherAPI
+# SheCodes- Project- WeatherAPI
 
 <em> Welcome to my second API project at SheCodes Academy</em>
 
